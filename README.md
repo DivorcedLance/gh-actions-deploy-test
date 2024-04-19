@@ -6,13 +6,13 @@ Based on: https://www.youtube.com/watch?v=XhoWXhyuW_I
 
 ###  Setup base in vite.config
 
-```
+```js
 base: "/[REPO_NAME]/"
 ```
 
 ### Create ./github/workflows/deploy.yml and add the code bellow
 
-```
+```yml
 name: Deploy
 
 on:
