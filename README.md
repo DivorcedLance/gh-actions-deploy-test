@@ -1,5 +1,7 @@
 # Example of deploy using gh-pages and gh actions
 
+Visit on: https://divorcedlance.github.io/gh-actions-deploy-test/
+
 Based on: https://www.youtube.com/watch?v=XhoWXhyuW_I
 
 ## Steps:
