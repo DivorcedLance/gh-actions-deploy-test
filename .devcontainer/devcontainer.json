@@ -26,7 +26,8 @@
                 "prisma.prisma",
                 "pnp.polacode",
                 "shd101wyy.markdown-preview-enhanced",
-                "astro-build.astro-vscode"
+                "astro-build.astro-vscode",
+                "fabiospampinato.vscode-open-in-github"
             ],
             "settings": {
                 "editor.rulers": [79],
